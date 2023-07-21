@@ -1,10 +1,12 @@
 ![urc_logo_ext](https://github.com/URC-LCDN/calculo_con_python/assets/28746720/776b5280-352f-42af-b356-16b02c5e21fc)
 
 # Una breve introducción a `Python`
-Introducción básica en Google colabs al lenguaje de programación Python 
-___
+Introducción básica en Google colabs al lenguaje de programación Python. 
 
-**[Introducción a Python & Números](https://github.com/URC-LCDN/introduccion_a_python/blob/main/Intro_a_Python_y_numeros.ipynb)**
+Este material fue utilizado para una capacitación de Python impartida a los profesores de la Licenciatura en Ciencia de Datos para Negocios de la Universidad Rosario Castellanos, como parte los cursos intersemestrales del período 2023. 
+___
+<!--
+**Introducción a Python & Números**
 
 **Cadenas -- Pendiente**
 
@@ -23,7 +25,7 @@ ___
 **Editores -- Pendiente**
 
 **Instalción -- Prendiente**
-
+-->
 ___
 
 ## Errores & Sugerencias
@@ -35,4 +37,4 @@ ___
 
 ## Autores
 
- * **Miguel Evangelista** - [@mevangelista-alvarado](https://github.com/mevangelista-alvarado)
+ * **Miguel Angel Herrera** - [@mahmc](https://github.com/mahmc)
