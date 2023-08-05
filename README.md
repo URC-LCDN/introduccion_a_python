@@ -8,9 +8,27 @@ ___
 
 # Contenido
 
-**[Módulos Básicos](https://github.com/URC-LCDN/introduccion_a_python/blob/main/BasicModules.ipynb)**
+### Temas 
+**[Variables](https://github.com/URC-LCDN/introduccion_a_python/blob/main/Vars.ipynb)**
+
+**[Números](https://github.com/URC-LCDN/introduccion_a_python/blob/main/Intro_a_Python_y_numeros.ipynb)**
+
+**[Funciones](https://github.com/URC-LCDN/introduccion_a_python/blob/main/Funciones.ipynb)**
+
+**[Módulos Básicos](https://github.com/URC-LCDN/introduccion_a_python/blob/main/Modulos.ipynb)**
+
+**[Colores](https://github.com/URC-LCDN/introduccion_a_python/blob/main/Colores.ipynb)**
+
+**[Listas](https://github.com/URC-LCDN/introduccion_a_python/blob/main/Listas.ipynb)** 
+
+
+### Ejemplos
 
 **[ChatBot](https://github.com/URC-LCDN/introduccion_a_python/blob/main/ChatBot.ipynb)**
+
+**[Guess Number](https://github.com/URC-LCDN/introduccion_a_python/blob/main/GuessNumber.ipynb)**
+
+**[Preguntas y Respuestas](https://github.com/URC-LCDN/introduccion_a_python/blob/main/PreguntasYrespuestas.ipynb)**
 
 ___
 
