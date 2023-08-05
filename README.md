@@ -5,27 +5,13 @@ Introducción básica en Google colabs al lenguaje de programación Python.
 
 Este material fue utilizado para una capacitación de Python impartida a los profesores de la Licenciatura en Ciencia de Datos para Negocios de la Universidad Rosario Castellanos, como parte los cursos intersemestrales del período 2023. 
 ___
-<!--
-**Introducción a Python & Números**
 
-**Cadenas -- Pendiente**
+# Contenido
 
-**Listas -- Pendiente**
+**[Módulos Básicos](https://github.com/URC-LCDN/introduccion_a_python/blob/main/BasicModules.ipynb)**
 
-**Estructuras de Control -- Pendiente**
+**[ChatBot](https://github.com/URC-LCDN/introduccion_a_python/blob/main/ChatBot.ipynb)**
 
-**Diccionarios -- Pendiente**
-
-**Funciones -- Pendiente**
-
-**Bucles -- Pendiente**
-
-**Módulos -- Pendiente**
-
-**Editores -- Pendiente**
-
-**Instalción -- Prendiente**
--->
 ___
 
 ## Errores & Sugerencias
