@@ -41,4 +41,4 @@ ___
 
 ## Autores
 
- * **Miguel Ángel Herrera** - [@mahmc](https://github.com/mahmc)
+ * **Miguel Ángel Herrera Mc** - [@mahmc](https://github.com/mahmc)
